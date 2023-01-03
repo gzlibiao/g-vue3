@@ -4,4 +4,14 @@
   <router-view />
 </template>
 
-<style lang="scss" scoped></style>
+<style>
+
+html,body,#app{
+  height:100%;
+  width:100%;
+  overflow:hidden;
+}  
+</style>
+
+<style lang="scss" scoped>
+</style>
